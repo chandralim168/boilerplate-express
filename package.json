@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-node-with-express",
+  "author": "Chandra lim",
   "version": "0.1.0",
   "description": "This is the boilerplate code for the Basic Node and Express Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/",
   "homepage": "https://github.com/chandralim168/boilerplate-express#readme",
